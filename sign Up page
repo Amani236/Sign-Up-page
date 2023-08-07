@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="sign Up.css" />
+        <title>
+            Digital Land
+        </title>
+        <link rel="icon" type="images/x-icon" href="https://e7.pngegg.com/pngimages/272/629/png-clipart-online-shopping-e-commerce-graphy-icon-blue-purchase-button-blue-angle.png" />
+    </head>
+    <body>
+        <h1>Sign Up</h1>
+        <p>please fill in this form to create an account</p>
+        <form action="/action_page.php">
+            <h2>Email</h2>
+            <input type="text" placeholder="Email" name="Email">
+            <h2>Password</h2>
+            <input type="text" placeholder="Password" name="psw">
+            <h2>Repeat password</h2>
+            <input type="text" placeholder="Repeat password" name="rpsw">
+        </form>
+        <div>
+            <button type="submit">Login</button>
+            <button type="cancel">cancel</button>
+        </div>
+
+    </body>
+</html>

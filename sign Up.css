@@ -1,0 +1,14 @@
+body{
+    background-color: #8bc1ec;
+}
+h1{
+    display:flex;
+    justify-content: center;
+    background-color: aliceblue;
+
+}
+p{
+    display:flex;
+    justify-content: center;
+    background-color: aliceblue;
+}
